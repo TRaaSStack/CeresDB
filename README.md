@@ -1,8 +1,5 @@
-# ceresdb
-CeresDB
-License OpenIssue ClosedIssue Stars Forks
-
-中文
+# Ceresdb
+![image](https://user-images.githubusercontent.com/1535119/173604730-70a21b89-d5a8-4932-b0da-61ff2f49a7aa.png)
 
 CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
 
