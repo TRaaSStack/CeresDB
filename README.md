@@ -6,3 +6,6 @@ CeresDB is a high-performance, distributed, schema-less, cloud native time-serie
 
 ## Project Links
 https://github.com/CeresDB/ceresdb
+
+## RoadMap
+[Roadmap](https://github.com/CeresDB/ceresdb/blob/main/docs/roadmap-CN.md)
