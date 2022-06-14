@@ -9,3 +9,6 @@ https://github.com/CeresDB/ceresdb
 
 ## RoadMap
 [Roadmap](https://github.com/CeresDB/ceresdb/blob/main/docs/roadmap-CN.md)
+
+## Newsletters
+* https://developer.aliyun.com/article/807744
